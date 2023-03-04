@@ -1,0 +1,95 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.footer-h5{
+    font-size: 3rem;
+}
+.footer-h4{
+    font-size: 2rem;
+    color: grey;
+}
+.btn-drop{
+    font-size: 1.5rem;
+    /* margin-bottom: 2rem; */
+    height: 3rem;
+    background-color: black;
+    color: white;
+}
+.sec2-h2{
+    font-size: 2rem;
+}
+.bg1{
+    background-color: black;
+}
+h2{
+    font-size: 2rem;
+
+}
+body{
+    background-color: black;
+    font-family: 'Fira Sans', sans-serif;
+font-family: 'Varela Round', sans-serif;
+}
+.collapseOnee{
+    font-size: 1.7rem;
+}
+.focuss{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.focuss-5{
+    font-size: 1.7rem;
+    font-weight: lighter;
+
+}
+.header-h1{
+    font-size: 4rem;
+    font-weight: bolder;
+}
+.header-p1{
+    font-size: 2rem;
+
+}
+.drop-list{
+    margin-bottom: 1.5rem;
+}
+.sec-h2{
+    color: aliceblue;
+    margin-bottom: 3rem;
+}
+
+.btn-3{
+    background-color: black;
+    border: 0.1rem solid white;
+    padding: 0.8rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.line-low{
+    height: 2rem;
+}
+
+.blolo{
+    background-color: black;
+    padding: 3rem;
+}
+.drop-h2{
+    padding-bottom:2rem ;
+}
+ .h6{
+    font-size: 2rem;
+}
+footer a{
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.lin{
+    font-size: 2rem;
+    font-weight: bold;
+}
